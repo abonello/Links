@@ -1,5 +1,5 @@
 # My Portfolio - Links
-Please ***right click*** an select **open in new tab** if you want to keep this tab open
+Please ***right click*** an select **open in new tab** if you want to keep this tab open.  
 \* This is only a partial list of technologies used. A complete list is found in the readme file of completed projects. 
 
 | Title | Github Repo | Deployment | Technologies* | Notes |
